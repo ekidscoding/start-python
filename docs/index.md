@@ -25,9 +25,9 @@ Hello from start-python!
 
 ## Корисні ресурси
 
-https://ekidscoding.github.io/python-dovidnyk/lessons/1/
+[Довідник Пайтон](https://ekidscoding.github.io/python-dovidnyk/lessons/1)
 
-## Про автора сайту.
+## Про автора сайту
 
 Мене звати Кіріл.
 
