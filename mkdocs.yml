@@ -61,7 +61,7 @@ markdown_extensions:
 
 plugins:
   - search
-  # - awesome-pages
+  - awesome-pages
 
   - tags
   - termynal:
