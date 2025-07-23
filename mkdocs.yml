@@ -9,7 +9,13 @@ theme:
     - content.code.copy
     - toc.integrate
     - toc.follow
+    - navigation.top
     - navigation.footer
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.sections
+    - navigation.expand
+
   palette:
 
     - media: "(prefers-color-scheme)"
@@ -42,6 +48,8 @@ markdown_extensions:
   - admonition
   - pymdownx.details
   - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
   - attr_list
   - pymdownx.emoji:
       emoji_index: !!python/name:material.extensions.emoji.twemoji
@@ -58,6 +66,8 @@ markdown_extensions:
   - pymdownx.mark
   - pymdownx.tilde
   - pymdownx.keys
+
+
 
 plugins:
   - search
